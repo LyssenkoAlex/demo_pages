@@ -1,5 +1,5 @@
 ## HTML markup demo
-See [Sample page](https://github.com/LyssenkoAlex/singolo/tree/gh-pages)
+See [Sample page](https://github.com/LyssenkoAlex/singolo/tree/gh-pages/index.html)
 Used thenologies:
  - HTML, SCSS, JS
  - Markup is optimased for desktop (1020px), tablet (768px), mobile (375px)
