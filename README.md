@@ -8,6 +8,7 @@ Used thenologies:
 ### See [Bird game](https://peaceful-bhaskara-26b5b7.netlify.com/)
  Used thenologies:
  - React, Redux
+ 
 ### See [Big table display](https://cranky-tereshkova-d34b1e.netlify.com/)
  Used thenologies:
  - React, Redux
