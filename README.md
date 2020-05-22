@@ -3,7 +3,10 @@ See [Sample page](https://lyssenkoalex.github.io/singolo/)
 Used thenologies:
  - HTML, SCSS, JS
  - Markup is optimased for desktop (1020px), tablet (768px), mobile (375px)
- 
+
+## JS Demos
+### See [Moview Search](https://dazzling-darwin-4549c9.netlify.app/dist/)
+
 ## React demos
 ### See [Bird game](https://peaceful-bhaskara-26b5b7.netlify.com/)
  Used thenologies:
