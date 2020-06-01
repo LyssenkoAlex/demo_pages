@@ -8,6 +8,11 @@ Used thenologies:
 ### See [Moview Search](https://dazzling-darwin-4549c9.netlify.app/dist/)
 
 ## React demos
+
+### See [Fancy Weather](https://lyssenkoalex-fancy-weather.netlify.app/)
+ Used thenologies:
+ - React, Redux, Google Clound API, SASS
+
 ### See [Bird game](https://peaceful-bhaskara-26b5b7.netlify.com/)
  Used thenologies:
  - React, Redux
